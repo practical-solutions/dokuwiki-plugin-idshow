@@ -1,0 +1,15 @@
+.plugin__idshow {
+    display:none;
+}
+
+.loggedIn .plugin__idshow{
+    display:block;
+    font-family:Courier;
+    font-size:11px;
+    color: gray;
+    padding-top:5px;
+}
+
+.plugin__idshow span{
+    background-color:#f5f5f5;
+}

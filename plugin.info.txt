@@ -1,0 +1,7 @@
+base   idshow
+author Gero Gothe
+email  practical@medizin-lernen.de
+date   2020-06-05
+name   ID-Show-Plugin
+desc   Displays the real-id indepent of the settings to show the first title.
+url    https://github.com/practical-solutions/dokuwiki-plugin-idshow
